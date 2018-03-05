@@ -1,0 +1,22 @@
+{
+  "name": "vpncash-api-node",
+  "version": "1.0.0",
+  "description": "VPNCash Node API Client",
+  "main": "./lib/vpncash",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Extreemhost <admin@extreemhost.nl> (https://extreemhost.nl)",
+  "keywords": [
+    "vpncash",
+    "vpn",
+    "reseller",
+    "api"
+  ],
+  "license": "BS2",
+  "dependencies": {
+    "requestify": "^0.2.5"
+  },
+  "repository": "git://github.com/fabricedelahaij/vpncash-api-node.git",
+  "bugs:": "https://github.com/fabricedelahaij/vpncash-api-node/issues"
+}
