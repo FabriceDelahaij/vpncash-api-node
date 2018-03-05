@@ -1,6 +1,6 @@
 {
   "name": "vpncash-api-node",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "VPNCash Node API Client",
   "main": "./lib/vpncash",
   "author": "Extreemhost <admin@extreemhost.nl> (https://extreemhost.nl)",
