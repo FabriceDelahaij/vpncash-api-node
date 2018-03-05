@@ -8,6 +8,7 @@
 [![Known Vulnerabilities](https://snyk.io/test/github/fabricedelahaij/vpncash-api-node/badge.svg?targetFile=package.json)](https://snyk.io/test/github/fabricedelahaij/vpncash-api-node?targetFile=package.json)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node?ref=badge_shield)
 [![Maintainability](https://api.codeclimate.com/v1/badges/11171f84bbb82360242e/maintainability)](https://codeclimate.com/github/FabriceDelahaij/vpncash-api-node/maintainability)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/FabriceDelahaij/vpncash-api-node/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/FabriceDelahaij/vpncash-api-node/?branch=master)
 
 ## Install
 
