@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "VPNCash Node API Client",
   "main": "./lib/vpncash",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "author": "Extreemhost <admin@extreemhost.nl> (https://extreemhost.nl)",
   "keywords": [
     "vpncash",
