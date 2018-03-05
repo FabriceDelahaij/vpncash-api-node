@@ -1,4 +1,6 @@
 # VPNCash NODE API Client
+[![NPM Version](https://img.shields.io/npm/v/vpncash-api-node.svg)](https://www.npmjs.com/package/vpncash-api-node)
+[![NPM Downloads](https://img.shields.io/npm/dm/vpncash-api-node.svg)](https://www.npmjs.com/package/vpncash-api-node)
 [![Build Status](https://travis-ci.org/FabriceDelahaij/vpncash-api-node.svg?branch=master)](https://travis-ci.org/FabriceDelahaij/vpncash-api-node)
 [![Greenkeeper badge](https://badges.greenkeeper.io/FabriceDelahaij/vpncash-api-node.svg)](https://greenkeeper.io/)
 [![GitHub issues](https://img.shields.io/github/issues/FabriceDelahaij/vpncash-api-node.svg)](https://github.com/FabriceDelahaij/vpncash-api-node/issues)
