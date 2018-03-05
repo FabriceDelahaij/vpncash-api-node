@@ -6,6 +6,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/FabriceDelahaij/vpncash-api-node.svg)](https://github.com/FabriceDelahaij/vpncash-api-node/issues)
 [![GitHub license](https://img.shields.io/github/license/FabriceDelahaij/vpncash-api-node.svg)](https://github.com/FabriceDelahaij/vpncash-api-node/blob/master/LICENSE)
 [![Known Vulnerabilities](https://snyk.io/test/github/fabricedelahaij/vpncash-api-node/badge.svg?targetFile=package.json)](https://snyk.io/test/github/fabricedelahaij/vpncash-api-node?targetFile=package.json)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node?ref=badge_shield)
 
 ## Install
 
@@ -43,3 +44,6 @@ To use the VPNCash API client, the following things are required:
 
 ## License
 [BSD (Berkeley Software Distribution) License](https://opensource.org/licenses/bsd-license.php). Copyright (c) 2017, Extreemhost.
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node?ref=badge_large)
