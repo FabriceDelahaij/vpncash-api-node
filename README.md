@@ -1,4 +1,6 @@
 # VPNCash NODE API Client
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/FabriceDelahaij/vpncash-api-node.svg)](https://greenkeeper.io/)
 [![Build Status](https://travis-ci.org/FabriceDelahaij/vpncash-api-node.svg?branch=master)](https://travis-ci.org/FabriceDelahaij/vpncash-api-node)
 
 ## Install
