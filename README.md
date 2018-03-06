@@ -9,6 +9,7 @@
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FFabriceDelahaij%2Fvpncash-api-node?ref=badge_shield)
 [![Maintainability](https://api.codeclimate.com/v1/badges/11171f84bbb82360242e/maintainability)](https://codeclimate.com/github/FabriceDelahaij/vpncash-api-node/maintainability)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/FabriceDelahaij/vpncash-api-node/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/FabriceDelahaij/vpncash-api-node/?branch=master)
+[![Coverage Status](https://coveralls.io/repos/github/FabriceDelahaij/vpncash-api-node/badge.svg?branch=master)](https://coveralls.io/github/FabriceDelahaij/vpncash-api-node?branch=master)
 
 ## Install
 
@@ -29,8 +30,14 @@ To use the VPNCash API client, the following things are required:
 + Visit website for [VPNCash account](https://vpncash.com)
 + Create a new [profile](http://www.vpncash.com/api-access) to generate API keys
 
+
+|argument|type|default|required|
+|--------|----|-------|--------|
+|setApiKey|string|null|false|
+|vpn_username|sting or int|null|true|
+|callback|function to pass the api result to|null|true|
+
 ```javascript
-	'use strict';
 
 	const VPNCash = require('vpncash-api-node');
 
