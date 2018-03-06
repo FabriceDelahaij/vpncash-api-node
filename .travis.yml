@@ -5,6 +5,9 @@ node_js:
 
 sudo: false
 
+service_name: travis-pro
+repo_token: hUAgEpXuTzSGy264TRzk4w5f0dEfClwWV
+
 install:
   - npm install -g codecov
 script:
